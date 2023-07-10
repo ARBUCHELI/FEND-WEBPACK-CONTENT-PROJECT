@@ -1,3 +1,4 @@
+// TODO: Import your JS functions here
 import { checkForName } from './js/nameChecker'
 import { handleSubmit } from './js/formHandler'
 
